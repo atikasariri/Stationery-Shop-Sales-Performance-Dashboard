@@ -1,0 +1,16 @@
+```gitignore
+# System / OS Files
+.DS_Store
+Thumbs.db
+
+# Microsoft Excel Temporary & Lock Files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# IDE & Editor Folders
+.vscode/
+.idea/
+
+# Node / Looker export temp files
+*.log
