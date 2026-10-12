@@ -56,10 +56,10 @@ _**Repository Structure**_
 
 ```text
 ├── assets/
-│   └── dashboard-preview.jpeg                  # gif of the dashboard
-    └── dashboard-preview.gif                   # Screenshot image of the dashboard
+│   └── dashboard-preview.jpeg                   # gif of the dashboard
+    └── dashboard-preview.gif                    # Screenshot image of the dashboard
 ├── data/
-│   └── [Updated]TokoAlatTulis_FINAL_BUILD.xlsx # Raw & Structured Sales Dataset
-├── README.md                                   # Project Documentation
-├── LICENSE                                     # MIT License
-└── .gitignore                                  # Git Ignore configuration
+│   └── [Updated] TokoAlatTulis_FINAL_BUILD.xlsx # Raw & Structured Sales Dataset
+├── README.md                                    # Project Documentation
+├── LICENSE                                      # MIT License
+└── .gitignore                                   # Git Ignore configuration
